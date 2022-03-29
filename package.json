@@ -1,0 +1,28 @@
+{
+  "name": "minipoesh",
+  "version": "1.0.0",
+  "description": "random minimal spanish poems generator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feeldiac/ranmess.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Fernando Diaz <feeldiac@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "minipoe": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "bugs": {
+    "url": "https://github.com/feeldiac/ranmess/issues"
+  },
+  "homepage": "https://github.com/feeldiac/ranmess#readme"
+}
