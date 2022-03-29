@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/feeldiac/ranmess.git"
+    "url": "git+https://github.com/feeldiac/minipoesh.git"
   },
   "keywords": [
     "javascript",
@@ -22,7 +22,7 @@
   },
   "preferGlobal": true,
   "bugs": {
-    "url": "https://github.com/feeldiac/ranmess/issues"
+    "url": "https://github.com/feeldiac/minipoesh/issues"
   },
-  "homepage": "https://github.com/feeldiac/ranmess#readme"
+  "homepage": "https://github.com/feeldiac/minipoesh#readme"
 }
